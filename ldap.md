@@ -10,7 +10,7 @@ Verzeichnisdienstes (verteilte hierarchische Datenbank) über ein IP-Netzwerk.
 ###C# Syntax
 
 
-```aspx-cs
+```js
 private bool Authenticate(string userName,
     string password, string domain)
 {
