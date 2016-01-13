@@ -28,7 +28,7 @@ private bool Authenticate(string userName,
 ```
 
 
-###LDAP Informationen
+###LDAP Attribute
 
-Mit dem folgenden Link kann man alle LDAP-Namen herauslesen:
+Folgende Attribute können verwendet werden:
 <br>[LDAP-Names](http://www.manageengine.com/products/ad-manager/help/csv-import-management/active-directory-ldap-attributes.html)
